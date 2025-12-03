@@ -15,11 +15,12 @@ This script is modified to add new models. It has data loaders.
    python312 -m venv venv
    ```
 5. Start virtual environment:
-   Windows:
+6. 
+   Windows
    ```
    ./venv/bin/activate
    ```
-   Mac/Linux:
+   Mac/Linux
    ```
    source ./venv/bin/activate
    ```
