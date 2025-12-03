@@ -36,3 +36,4 @@ This script is modified to add new models. It has data loaders.
 9.  Project root directory should contain `adaptive-immune-profiling-challenge-2025` folder and `baseline-pred.ipynb` script
 10.  Run `jupyter notebook` in terminal
 11.  Open `baseline-pred.ipynb` in Jupyter Notebook and run cells
+12.  After running all cells, a new folder `results` will be created in project root directory
