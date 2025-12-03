@@ -14,8 +14,8 @@ This script is modified to add new models. It has data loaders.
    ```
    python312 -m venv venv
    ```
-5. Start virtual environment:
-6. 
+4. Start virtual environment:
+   
    Windows
    ```
    ./venv/bin/activate
@@ -24,15 +24,15 @@ This script is modified to add new models. It has data loaders.
    ```
    source ./venv/bin/activate
    ```
-7. Install libraries
+5. Install libraries
    ```
    pip install notebook pandas numpy tqdm polars torch torchvision scikit-learn
    ```
 
     If using AMD GPU, use Linux and install ROCm. See [PyTorch docs](https://pytorch.org/get-started/locally/) 
-9.  Copy `baseline-pred.ipynb` to project root directory
-10.  Download dataset from Kaggle by clicking the Download All button on this page: [Dataset link](https://www.kaggle.com/competitions/adaptive-immune-profiling-challenge-2025/data)
-11.  Extract dataset in project root directory
-12.  Project root directory should contain `adaptive-immune-profiling-challenge-2025` folder and `baseline-pred.ipynb` script
-13.  Run `jupyter notebook` in terminal
-14.  Open `baseline-pred.ipynb` in Jupyter Notebook and run cells
+6.  Copy `baseline-pred.ipynb` to project root directory
+7.  Download dataset from Kaggle by clicking the Download All button on this page: [Dataset link](https://www.kaggle.com/competitions/adaptive-immune-profiling-challenge-2025/data)
+8.  Extract dataset in project root directory
+9.  Project root directory should contain `adaptive-immune-profiling-challenge-2025` folder and `baseline-pred.ipynb` script
+10.  Run `jupyter notebook` in terminal
+11.  Open `baseline-pred.ipynb` in Jupyter Notebook and run cells
