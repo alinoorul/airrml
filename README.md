@@ -1,12 +1,12 @@
 # Adaptive Immune Profiling
 Models for AIRR-ML-25: Adaptive Immune Profiling Challenge on Kaggle
 
-Challenge link:[https://www.kaggle.com/competitions/adaptive-immune-profiling-challenge-2025/overview](https://www.kaggle.com/competitions/adaptive-immune-profiling-challenge-2025/overview)
+Challenge link: [https://www.kaggle.com/competitions/adaptive-immune-profiling-challenge-2025/overview](https://www.kaggle.com/competitions/adaptive-immune-profiling-challenge-2025/overview)
 
-## baseline-pred.ipynb is main script
+## `baseline-pred.ipynb` is main script
 This script is modified to add new models. It has data loaders.
 
-## Steps to run baseline.pred
+## Steps
 
 1. Install Python 3.12
 2. Create a folder (project root directory) 
