@@ -18,7 +18,7 @@ This script is modified to add new models. It has data loaders.
    
    Windows
    ```
-   ./venv/bin/activate
+   ./venv/Scripts/activate
    ```
    Mac/Linux
    ```
